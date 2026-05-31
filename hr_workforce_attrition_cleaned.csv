@@ -1,0 +1,301 @@
+Employee_ID,Employee_Name,Age,Gender,Department,Job_Role,Location,Education_Level,Years_at_Company,Monthly_Salary,Performance_Rating,Job_Satisfaction_Score,Work_Life_Balance_Score,Training_Hours,Promotion_Status,Overtime_Status,Employment_Type,Diversity_Category,Attrition_Status,Attrition_Risk_Level
+EMP0001,Briana Green,44,Male,Operations,Supply Chain Analyst,Delhi,Bachelor's,4,58410,4.2,10,5,40,Promoted,No,Intern,PWD,No,Medium
+EMP0002,David Franklin,58,Female,Operations,Supply Chain Analyst,Bangalore,Master's,3,108389,4.6,5,2,30,Not Promoted,Yes,Full-Time,General,No,Low
+EMP0003,Anita Washington,29,Female,Sales,Sales Executive,Bangalore,PhD,2,105068,4.0,2,8,31,Promoted,Yes,Contract,General,Yes,Medium
+EMP0004,Donald Terry,54,Male,IT,Software Engineer,Bangalore,Bachelor's,8,69304,4.3,6,1,41,Promoted,Yes,Contract,LGBTQ+,No,Low
+EMP0005,Johnny Price,49,Female,Marketing,SEO Specialist,Chennai,MBA,0,169984,3.9,6,6,15,Promoted,No,Contract,General,No,Low
+EMP0006,Megan Perez,29,Female,HR,HR Executive,Delhi,PhD,9,115286,4.6,1,2,6,Not Promoted,Yes,Intern,Women Workforce,Yes,High
+EMP0007,Stephanie Hinton,58,Male,Operations,Supply Chain Analyst,Hyderabad,MBA,13,103164,3.5,6,3,26,Promoted,No,Intern,General,No,Medium
+EMP0008,Matthew Brown,35,Male,HR,Talent Acquisition Specialist,Bangalore,MBA,2,176580,3.6,4,8,37,Not Promoted,Yes,Contract,Minority,Yes,High
+EMP0009,Gregory Duncan,47,Male,Finance,Accountant,Bangalore,Bachelor's,13,112254,3.3,1,3,49,Promoted,Yes,Contract,Women Workforce,Yes,High
+EMP0010,John Reyes,47,Male,Finance,Accountant,Hyderabad,PhD,13,106567,3.7,3,5,74,Promoted,Yes,Contract,Minority,Yes,Medium
+EMP0011,Kerry Holloway,26,Male,Sales,Sales Executive,Pune,Bachelor's,8,96629,3.1,8,1,23,Not Promoted,Yes,Contract,Minority,No,Medium
+EMP0012,David Ferrell,33,Female,Finance,Financial Analyst,Chennai,Bachelor's,8,44836,4.9,6,6,9,Promoted,Yes,Intern,General,No,Medium
+EMP0013,Melissa Allen,48,Male,Sales,Sales Executive,Pune,MBA,2,105382,2.8,7,10,75,Promoted,No,Full-Time,LGBTQ+,No,Medium
+EMP0014,Allison Rodriguez,41,Female,R&D,Product Development Engineer,Hyderabad,Master's,4,87739,4.7,2,2,46,Promoted,No,Intern,Minority,No,Medium
+EMP0015,Robert Yates,38,Female,Finance,Financial Analyst,Bangalore,Master's,6,112072,3.4,5,2,46,Not Promoted,No,Intern,LGBTQ+,No,Low
+EMP0016,Anne Gentry,35,Female,Operations,Operations Manager,Pune,PhD,2,57816,4.3,2,9,8,Not Promoted,Yes,Full-Time,Women Workforce,Yes,High
+EMP0017,Stephanie Johnson,33,Male,Operations,Operations Manager,Delhi,MBA,12,171988,2.6,9,7,40,Not Promoted,Yes,Full-Time,Minority,No,Low
+EMP0018,Derrick Miller,42,Male,Sales,Business Development Associate,Bangalore,Master's,10,109838,3.7,9,8,27,Not Promoted,Yes,Intern,Minority,No,Low
+EMP0019,Karen Matthews,22,Female,IT,Data Analyst,Chennai,MBA,15,63100,3.3,6,9,67,Not Promoted,Yes,Intern,Minority,No,Low
+EMP0020,Theodore Camacho,26,Male,HR,HR Executive,Mumbai,MBA,2,107115,3.0,1,9,55,Promoted,No,Full-Time,Minority,No,Low
+EMP0021,Vincent Garza,22,Female,Finance,Accountant,Bangalore,MBA,2,139453,2.8,2,6,32,Promoted,No,Intern,Minority,No,Medium
+EMP0022,Kara Schultz,40,Female,Sales,Sales Executive,Pune,Master's,7,107602,4.8,2,1,64,Promoted,No,Contract,General,No,Medium
+EMP0023,Michael Harrison,47,Female,Marketing,SEO Specialist,Delhi,PhD,0,93424,2.5,1,8,31,Promoted,No,Contract,Women Workforce,Yes,High
+EMP0024,Ashley Crawford,57,Female,HR,Talent Acquisition Specialist,Hyderabad,Master's,3,135357,4.4,2,8,75,Not Promoted,Yes,Contract,Women Workforce,Yes,High
+EMP0025,Jason Bean,29,Female,IT,System Administrator,Mumbai,MBA,0,172078,4.1,6,3,47,Promoted,No,Contract,Minority,Yes,High
+EMP0026,Ashley Norris,53,Male,Operations,Operations Manager,Delhi,PhD,4,68462,4.8,1,6,29,Promoted,Yes,Contract,General,Yes,Medium
+EMP0027,Mike Lopez,23,Female,HR,HR Executive,Pune,Master's,6,172201,4.8,8,1,72,Not Promoted,No,Intern,LGBTQ+,No,Low
+EMP0028,John Daniel,40,Female,Operations,Supply Chain Analyst,Delhi,PhD,9,127358,3.3,4,1,13,Not Promoted,Yes,Intern,Women Workforce,Yes,Medium
+EMP0029,Nicholas Santos,26,Male,Finance,Financial Analyst,Hyderabad,Master's,3,178266,3.1,6,4,55,Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0030,Zachary Ingram,48,Female,Sales,Sales Executive,Delhi,PhD,8,73684,3.7,8,7,11,Promoted,Yes,Intern,PWD,No,Medium
+EMP0031,Crystal Harrell,23,Male,IT,System Administrator,Delhi,PhD,1,95522,3.1,7,10,26,Not Promoted,No,Intern,General,Yes,Medium
+EMP0032,Victor Reeves,34,Male,Finance,Financial Analyst,Pune,MBA,9,33242,2.6,5,9,47,Promoted,Yes,Full-Time,General,No,Medium
+EMP0033,Rachel Green,54,Male,HR,Talent Acquisition Specialist,Bangalore,Master's,15,122232,4.2,10,4,51,Promoted,Yes,Intern,PWD,No,Medium
+EMP0034,Susan Freeman,55,Male,IT,System Administrator,Pune,Master's,12,129900,3.3,10,7,54,Not Promoted,No,Contract,Minority,No,Low
+EMP0035,Jeffrey Cannon,32,Male,Operations,Supply Chain Analyst,Bangalore,Bachelor's,6,93674,4.6,3,7,71,Promoted,Yes,Intern,General,Yes,High
+EMP0036,Jennifer Le,25,Female,Marketing,SEO Specialist,Chennai,Master's,0,134001,4.9,3,2,69,Promoted,No,Intern,PWD,No,Medium
+EMP0037,Juan Nixon,55,Male,IT,Data Analyst,Bangalore,Master's,13,170334,3.1,8,9,53,Promoted,Yes,Full-Time,Women Workforce,No,Medium
+EMP0038,April Lee,38,Female,Finance,Financial Analyst,Pune,MBA,13,164670,2.9,3,5,71,Not Promoted,No,Intern,General,No,Medium
+EMP0039,Sarah Evans,35,Female,HR,Talent Acquisition Specialist,Pune,PhD,10,140658,3.1,9,10,34,Not Promoted,Yes,Contract,LGBTQ+,No,Low
+EMP0040,Angela Schwartz,58,Male,Operations,Supply Chain Analyst,Bangalore,MBA,12,82382,2.6,9,6,26,Promoted,Yes,Full-Time,Minority,No,Low
+EMP0041,Kyle West,39,Female,HR,Talent Acquisition Specialist,Delhi,MBA,9,153868,4.5,9,8,62,Not Promoted,Yes,Full-Time,General,No,Low
+EMP0042,Jordan Woods,52,Male,Sales,Business Development Associate,Delhi,Bachelor's,5,68827,3.9,6,5,70,Not Promoted,Yes,Full-Time,General,No,Medium
+EMP0043,Joshua Henderson,33,Male,Operations,Operations Manager,Pune,Master's,0,141772,4.7,4,1,8,Promoted,No,Contract,Women Workforce,No,Low
+EMP0044,Matthew Campos,52,Male,R&D,Research Associate,Mumbai,Master's,13,66389,3.3,2,10,40,Promoted,No,Intern,Women Workforce,No,Low
+EMP0045,Ashley Robinson,34,Female,Sales,Business Development Associate,Chennai,Master's,15,88231,3.2,2,10,53,Not Promoted,Yes,Contract,LGBTQ+,Yes,High
+EMP0046,Jacob Ortiz,51,Male,Finance,Accountant,Pune,MBA,10,175432,4.4,6,9,11,Not Promoted,Yes,Contract,PWD,No,Medium
+EMP0047,Keith Barrett,37,Male,Sales,Business Development Associate,Hyderabad,Bachelor's,8,94364,3.1,2,5,20,Not Promoted,Yes,Intern,Minority,Yes,Medium
+EMP0048,Michael Kim,45,Female,Operations,Operations Manager,Chennai,PhD,5,157087,2.6,7,5,68,Not Promoted,Yes,Full-Time,General,No,Medium
+EMP0049,William Ford,37,Female,Operations,Supply Chain Analyst,Mumbai,Master's,8,117776,3.7,1,7,52,Not Promoted,Yes,Contract,PWD,Yes,Medium
+EMP0050,Ariana Sanchez,33,Male,Operations,Supply Chain Analyst,Chennai,PhD,14,33773,3.2,9,2,26,Not Promoted,Yes,Intern,PWD,No,Low
+EMP0051,Matthew Velazquez,42,Female,Marketing,SEO Specialist,Pune,PhD,0,118028,2.7,1,3,7,Promoted,No,Full-Time,Minority,No,Medium
+EMP0052,Sharon White,47,Female,IT,System Administrator,Delhi,Master's,11,44897,3.4,10,6,52,Promoted,No,Intern,Women Workforce,No,Medium
+EMP0053,William Henry,52,Male,IT,Data Analyst,Chennai,Master's,12,145819,2.5,9,6,70,Not Promoted,No,Intern,PWD,No,Medium
+EMP0054,Sandra Reed,29,Male,Marketing,SEO Specialist,Bangalore,Master's,11,93111,4.3,5,3,78,Not Promoted,Yes,Contract,Women Workforce,No,Medium
+EMP0055,Bonnie Duke,52,Female,Operations,Supply Chain Analyst,Hyderabad,Master's,7,79100,4.3,2,8,59,Promoted,No,Contract,PWD,No,Low
+EMP0056,Cindy Martin,41,Male,Operations,Operations Manager,Chennai,Master's,5,59118,4.3,3,10,18,Promoted,No,Full-Time,Women Workforce,No,Medium
+EMP0057,Catherine Hayes,53,Male,Finance,Financial Analyst,Hyderabad,Bachelor's,13,69053,3.2,8,3,66,Promoted,No,Contract,Minority,No,Medium
+EMP0058,Shirley Foster,53,Male,Marketing,SEO Specialist,Chennai,Master's,13,71993,4.1,7,6,39,Not Promoted,Yes,Contract,General,No,Medium
+EMP0059,Howard Roberts,46,Male,IT,Software Engineer,Chennai,MBA,0,124499,3.6,8,6,78,Promoted,No,Contract,General,No,Low
+EMP0060,Tiffany Smith,30,Male,HR,Talent Acquisition Specialist,Delhi,Master's,12,139675,4.4,2,5,48,Promoted,Yes,Contract,General,Yes,High
+EMP0061,Nancy Parks,53,Male,Marketing,SEO Specialist,Hyderabad,Master's,14,109366,4.0,1,9,41,Not Promoted,Yes,Contract,LGBTQ+,Yes,Medium
+EMP0062,James Garza,52,Male,Operations,Supply Chain Analyst,Mumbai,MBA,6,41151,4.0,6,4,50,Promoted,Yes,Intern,PWD,No,Low
+EMP0063,Terrence Wyatt,50,Female,R&D,Research Associate,Chennai,Master's,7,104313,3.6,4,4,9,Promoted,Yes,Contract,Minority,Yes,Medium
+EMP0064,Katherine Alexander,40,Male,Finance,Financial Analyst,Hyderabad,PhD,4,159428,2.5,8,1,71,Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0065,Monica Fitzpatrick,40,Female,IT,System Administrator,Hyderabad,PhD,14,128679,3.2,1,10,55,Not Promoted,No,Full-Time,PWD,No,Medium
+EMP0066,Erin Baker,32,Female,HR,HR Executive,Delhi,Master's,7,101349,4.1,6,2,67,Promoted,No,Intern,PWD,No,Low
+EMP0067,Tracy Martin,41,Male,Sales,Business Development Associate,Bangalore,Bachelor's,7,111464,4.9,4,5,67,Promoted,Yes,Contract,General,Yes,High
+EMP0068,James Long,23,Male,R&D,Product Development Engineer,Chennai,Master's,5,94072,3.4,7,7,67,Promoted,No,Contract,PWD,No,Low
+EMP0069,Paul Washington,55,Female,Finance,Financial Analyst,Hyderabad,MBA,11,111170,2.7,2,4,51,Promoted,Yes,Contract,General,Yes,Medium
+EMP0070,William Melendez,48,Male,Marketing,SEO Specialist,Pune,PhD,15,160764,4.2,4,10,22,Not Promoted,Yes,Full-Time,PWD,Yes,High
+EMP0071,Jessica Hoover,33,Male,R&D,Research Associate,Chennai,Master's,13,36048,4.2,5,4,65,Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0072,Howard Cross,56,Male,Finance,Accountant,Bangalore,MBA,13,152495,3.4,9,4,65,Promoted,Yes,Full-Time,Minority,No,Medium
+EMP0073,Riley Williams,49,Male,Finance,Accountant,Bangalore,Master's,12,31786,4.4,4,8,74,Not Promoted,No,Contract,General,No,Low
+EMP0074,Julie Pruitt,51,Male,IT,Software Engineer,Chennai,Master's,4,148387,3.3,9,8,42,Promoted,No,Full-Time,LGBTQ+,No,Medium
+EMP0075,Gabriel Davidson,58,Male,IT,Software Engineer,Bangalore,Master's,1,52074,3.1,3,2,16,Promoted,No,Contract,Women Workforce,Yes,High
+EMP0076,Monica Davis,55,Male,Finance,Financial Analyst,Bangalore,Master's,12,152636,3.3,2,3,24,Promoted,Yes,Full-Time,General,Yes,Medium
+EMP0077,Peter Hernandez,27,Female,IT,System Administrator,Delhi,Master's,10,47918,2.7,2,7,42,Promoted,No,Full-Time,Minority,No,Low
+EMP0078,Melissa Chaney,29,Female,Finance,Financial Analyst,Delhi,MBA,4,37462,2.6,10,2,70,Not Promoted,No,Contract,Minority,No,Low
+EMP0079,Courtney Hall,28,Male,R&D,Product Development Engineer,Chennai,Master's,14,97770,3.3,7,1,44,Promoted,Yes,Intern,Minority,No,Medium
+EMP0080,Mary Chambers,31,Female,R&D,Research Associate,Delhi,Bachelor's,15,176837,3.8,1,9,74,Not Promoted,Yes,Intern,Women Workforce,Yes,High
+EMP0081,Malik Ramirez,53,Female,HR,Talent Acquisition Specialist,Hyderabad,Bachelor's,6,75625,3.7,2,1,60,Not Promoted,Yes,Intern,Women Workforce,Yes,Medium
+EMP0082,Timothy Holmes,54,Female,HR,Talent Acquisition Specialist,Pune,Master's,6,99278,4.1,4,5,24,Not Promoted,No,Full-Time,Women Workforce,No,Medium
+EMP0083,April Reyes,45,Female,HR,Talent Acquisition Specialist,Delhi,Bachelor's,5,67631,3.5,7,7,62,Promoted,No,Contract,General,No,Medium
+EMP0084,Brian Lucero,22,Female,HR,HR Executive,Delhi,MBA,14,159153,2.8,5,2,30,Promoted,No,Intern,LGBTQ+,No,Medium
+EMP0085,Antonio Yu,24,Female,IT,Data Analyst,Mumbai,Master's,7,148313,4.1,1,8,68,Promoted,Yes,Contract,Women Workforce,Yes,High
+EMP0086,Hunter Cross,49,Male,Sales,Business Development Associate,Bangalore,Master's,15,53663,4.3,10,2,72,Promoted,No,Full-Time,LGBTQ+,No,Low
+EMP0087,Thomas Kelly,57,Male,Operations,Operations Manager,Delhi,Bachelor's,14,47680,3.1,4,5,77,Not Promoted,Yes,Full-Time,LGBTQ+,Yes,High
+EMP0088,Amber Walker,22,Female,Finance,Financial Analyst,Chennai,Master's,12,160887,2.6,10,3,43,Promoted,No,Contract,PWD,No,Medium
+EMP0089,Vincent Smith,57,Female,Finance,Accountant,Pune,Bachelor's,5,152211,3.0,5,7,69,Not Promoted,No,Full-Time,General,No,Medium
+EMP0090,Marc Robinson,52,Female,HR,Talent Acquisition Specialist,Hyderabad,Bachelor's,2,162916,3.2,3,7,32,Not Promoted,No,Intern,PWD,No,Low
+EMP0091,Ruth Gonzales,51,Male,R&D,Research Associate,Bangalore,Master's,14,134665,3.1,9,8,20,Promoted,No,Full-Time,General,No,Low
+EMP0092,Matthew Shaw,50,Male,R&D,Product Development Engineer,Chennai,MBA,15,102257,2.9,8,9,66,Not Promoted,Yes,Intern,Women Workforce,No,Medium
+EMP0093,Carl Knight,49,Female,HR,Talent Acquisition Specialist,Mumbai,Bachelor's,0,56065,3.4,10,1,35,Not Promoted,No,Intern,Minority,No,Low
+EMP0094,Beverly Orozco,40,Male,IT,Data Analyst,Delhi,Bachelor's,4,145306,3.6,6,9,61,Not Promoted,Yes,Intern,Women Workforce,No,Medium
+EMP0095,Veronica Berry,28,Female,Marketing,Marketing Analyst,Bangalore,MBA,12,68472,2.5,8,1,80,Not Promoted,No,Intern,General,No,Medium
+EMP0096,Gene Castillo,38,Male,Sales,Business Development Associate,Chennai,MBA,5,110340,2.9,2,9,38,Not Promoted,No,Intern,LGBTQ+,No,Low
+EMP0097,William Rose,50,Male,Finance,Accountant,Delhi,Bachelor's,0,123882,3.2,9,8,51,Not Promoted,Yes,Full-Time,General,No,Medium
+EMP0098,Matthew Leonard,27,Female,IT,Software Engineer,Hyderabad,Master's,11,135861,4.2,10,8,73,Promoted,No,Contract,LGBTQ+,No,Low
+EMP0099,James Franco,27,Male,Sales,Business Development Associate,Mumbai,MBA,15,108335,2.5,8,3,37,Not Promoted,No,Intern,LGBTQ+,No,Low
+EMP0100,Laura Powell,50,Female,Sales,Sales Executive,Mumbai,Bachelor's,1,77487,4.1,8,4,19,Not Promoted,No,Full-Time,PWD,No,Medium
+EMP0101,Michael Thomas,57,Female,Marketing,SEO Specialist,Bangalore,Master's,10,125230,2.9,5,1,22,Not Promoted,Yes,Contract,LGBTQ+,No,Low
+EMP0102,Max Kidd,40,Male,Marketing,Marketing Analyst,Hyderabad,Master's,8,132249,4.6,8,2,36,Promoted,No,Full-Time,LGBTQ+,No,Low
+EMP0103,Pamela Campbell,49,Male,Finance,Financial Analyst,Chennai,PhD,4,39301,3.9,4,9,28,Promoted,No,Intern,PWD,No,Medium
+EMP0104,Paula Bowen,34,Male,IT,Data Analyst,Pune,Master's,5,64202,4.4,8,8,77,Not Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0105,Donna Richards,38,Male,Finance,Financial Analyst,Delhi,Bachelor's,10,64564,4.2,7,10,32,Promoted,No,Full-Time,Minority,No,Low
+EMP0106,Kaitlyn Miller,25,Male,HR,Talent Acquisition Specialist,Bangalore,MBA,3,95693,3.1,3,7,21,Promoted,Yes,Contract,General,Yes,Medium
+EMP0107,Zachary Stone,28,Male,Operations,Supply Chain Analyst,Chennai,PhD,3,99460,4.8,6,4,44,Not Promoted,No,Intern,General,No,Low
+EMP0108,Johnny Williams,30,Male,Sales,Business Development Associate,Pune,Master's,7,65951,2.7,6,7,33,Not Promoted,Yes,Full-Time,PWD,No,Low
+EMP0109,Mary Lamb,47,Female,Operations,Operations Manager,Pune,PhD,5,169110,4.5,2,2,44,Promoted,No,Full-Time,PWD,No,Medium
+EMP0110,Luke Rios,45,Male,R&D,Product Development Engineer,Hyderabad,Master's,2,166183,4.5,4,4,76,Not Promoted,Yes,Full-Time,Women Workforce,Yes,High
+EMP0111,Paul Smith,27,Female,IT,Data Analyst,Hyderabad,Master's,13,94958,4.2,2,10,79,Promoted,No,Full-Time,Women Workforce,No,Medium
+EMP0112,Justin Hill,25,Male,Marketing,Marketing Analyst,Mumbai,Master's,10,75057,4.1,6,5,11,Promoted,Yes,Full-Time,Women Workforce,No,Medium
+EMP0113,Elizabeth Robinson,22,Female,Sales,Business Development Associate,Bangalore,PhD,8,55830,4.9,2,6,20,Not Promoted,No,Contract,Women Workforce,No,Medium
+EMP0114,Anthony Ruiz,28,Female,R&D,Research Associate,Delhi,Bachelor's,10,64254,3.8,3,9,8,Promoted,No,Intern,LGBTQ+,No,Medium
+EMP0115,Dustin Santiago,39,Male,IT,Data Analyst,Pune,Master's,0,119480,3.9,1,2,38,Promoted,No,Contract,General,Yes,Medium
+EMP0116,Ryan Brooks,38,Female,Operations,Operations Manager,Mumbai,Master's,1,35016,4.2,3,5,60,Not Promoted,No,Contract,LGBTQ+,Yes,High
+EMP0117,Dennis Welch,56,Male,HR,HR Executive,Mumbai,Bachelor's,15,84301,4.2,9,4,72,Not Promoted,Yes,Full-Time,Minority,No,Medium
+EMP0118,Jennifer Butler,33,Male,Marketing,SEO Specialist,Delhi,Bachelor's,0,104527,4.9,1,1,47,Not Promoted,No,Contract,LGBTQ+,Yes,High
+EMP0119,Maria Cunningham,52,Female,R&D,Research Associate,Bangalore,Bachelor's,12,117807,3.3,4,3,36,Not Promoted,Yes,Intern,PWD,Yes,Medium
+EMP0120,Preston Anderson,24,Male,Marketing,SEO Specialist,Hyderabad,MBA,4,80823,3.1,1,3,60,Not Promoted,No,Intern,PWD,No,Medium
+EMP0121,Dawn Miller,23,Male,HR,HR Executive,Hyderabad,PhD,13,137894,2.7,2,9,45,Not Promoted,No,Contract,Minority,No,Low
+EMP0122,Dr. Larry Cunningham,46,Male,Finance,Accountant,Mumbai,Master's,9,76149,3.7,5,8,17,Not Promoted,No,Full-Time,PWD,No,Medium
+EMP0123,Andres Martin,49,Female,IT,System Administrator,Hyderabad,Master's,0,61527,4.0,10,7,12,Promoted,No,Intern,PWD,Yes,Medium
+EMP0124,Angel Sawyer,45,Male,IT,System Administrator,Delhi,PhD,1,70075,4.2,6,2,61,Not Promoted,Yes,Contract,PWD,No,Low
+EMP0125,Eric Watson,28,Female,IT,System Administrator,Bangalore,PhD,14,76278,4.8,7,9,63,Promoted,No,Full-Time,LGBTQ+,No,Medium
+EMP0126,Kathryn Perkins,40,Male,Operations,Supply Chain Analyst,Mumbai,Bachelor's,10,152966,4.6,10,10,69,Promoted,No,Intern,General,No,Medium
+EMP0127,Craig Foley,28,Male,Operations,Supply Chain Analyst,Bangalore,MBA,10,41045,4.0,10,8,29,Promoted,Yes,Intern,General,No,Medium
+EMP0128,Amanda Wallace,57,Male,R&D,Product Development Engineer,Mumbai,MBA,7,41321,4.8,3,9,29,Not Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0129,Brandon Ali,24,Female,Sales,Sales Executive,Pune,PhD,3,107766,4.3,6,6,39,Promoted,No,Full-Time,LGBTQ+,No,Medium
+EMP0130,Stanley Sanchez,22,Male,Sales,Business Development Associate,Mumbai,PhD,1,73561,3.1,8,1,42,Not Promoted,No,Intern,Women Workforce,No,Medium
+EMP0131,Howard Austin,46,Male,Sales,Business Development Associate,Delhi,MBA,9,50506,4.5,2,5,29,Not Promoted,Yes,Intern,PWD,Yes,High
+EMP0132,Michael Wagner,35,Female,HR,Talent Acquisition Specialist,Pune,MBA,14,136844,4.5,5,3,19,Promoted,Yes,Full-Time,Women Workforce,No,Medium
+EMP0133,Danielle Smith,48,Male,Sales,Sales Executive,Pune,Bachelor's,12,95973,4.2,7,7,35,Promoted,No,Full-Time,Women Workforce,No,Low
+EMP0134,Andrew Young PhD,40,Male,Sales,Business Development Associate,Mumbai,PhD,15,80358,2.5,3,4,58,Promoted,No,Intern,PWD,No,Low
+EMP0135,Zoe Willis,31,Female,IT,System Administrator,Delhi,Master's,15,107165,3.0,10,4,39,Promoted,Yes,Intern,General,No,Medium
+EMP0136,Douglas Tate,24,Male,R&D,Research Associate,Pune,PhD,2,34618,4.5,2,8,73,Promoted,No,Full-Time,LGBTQ+,No,Medium
+EMP0137,Juan Cooper,47,Female,Marketing,SEO Specialist,Hyderabad,MBA,7,99379,4.3,10,4,9,Promoted,Yes,Contract,LGBTQ+,No,Low
+EMP0138,Elizabeth Moore,27,Male,Sales,Sales Executive,Pune,Bachelor's,9,170513,2.6,1,1,36,Promoted,Yes,Contract,LGBTQ+,Yes,Medium
+EMP0139,Deborah Monroe,42,Female,Sales,Sales Executive,Mumbai,Bachelor's,9,177765,4.5,2,10,61,Promoted,No,Full-Time,PWD,No,Medium
+EMP0140,Paige Wright,41,Female,Finance,Financial Analyst,Pune,MBA,3,167863,4.3,7,6,16,Not Promoted,Yes,Full-Time,PWD,No,Low
+EMP0141,Michele Rivera,51,Female,Sales,Business Development Associate,Mumbai,MBA,4,54037,2.9,2,8,67,Not Promoted,Yes,Contract,PWD,Yes,High
+EMP0142,Larry Hamilton,51,Male,Finance,Financial Analyst,Pune,MBA,15,93989,3.0,8,5,35,Not Promoted,No,Full-Time,Minority,No,Low
+EMP0143,Melissa Proctor,49,Male,HR,Talent Acquisition Specialist,Mumbai,Bachelor's,5,133291,3.1,1,3,38,Not Promoted,No,Intern,Minority,No,Low
+EMP0144,Lisa Estrada,31,Male,R&D,Research Associate,Pune,PhD,7,155390,4.2,8,9,38,Not Promoted,No,Full-Time,General,No,Low
+EMP0145,Pamela Wolfe,42,Female,IT,System Administrator,Mumbai,MBA,4,31367,4.4,7,8,69,Not Promoted,Yes,Contract,Minority,No,Low
+EMP0146,Jose Garrett,54,Male,Finance,Accountant,Bangalore,Bachelor's,12,61791,2.8,3,4,53,Not Promoted,No,Contract,Women Workforce,No,Low
+EMP0147,Patricia Dean,25,Male,R&D,Research Associate,Delhi,MBA,11,155493,4.8,7,2,13,Promoted,Yes,Contract,Women Workforce,No,Medium
+EMP0148,Erica Smith,56,Female,Marketing,SEO Specialist,Hyderabad,PhD,9,156507,3.6,2,8,35,Promoted,No,Contract,PWD,No,Low
+EMP0149,Erica Evans,50,Female,Operations,Supply Chain Analyst,Chennai,Master's,6,111805,3.4,1,10,66,Not Promoted,Yes,Full-Time,LGBTQ+,Yes,High
+EMP0150,Jeffrey Berry,32,Female,Operations,Supply Chain Analyst,Delhi,Master's,6,176987,2.8,6,2,33,Not Promoted,No,Full-Time,General,No,Low
+EMP0151,Aaron Ochoa,47,Male,Marketing,SEO Specialist,Hyderabad,Master's,12,34873,3.2,7,5,57,Promoted,No,Intern,PWD,No,Medium
+EMP0152,David Hudson,29,Male,Operations,Operations Manager,Pune,Bachelor's,1,153406,4.8,7,2,7,Not Promoted,Yes,Full-Time,Minority,Yes,Medium
+EMP0153,Sheila Copeland,51,Male,R&D,Product Development Engineer,Chennai,Master's,11,129219,4.0,3,9,79,Promoted,No,Contract,Minority,No,Medium
+EMP0154,Sara Martin,25,Male,R&D,Product Development Engineer,Pune,Bachelor's,0,86849,4.2,6,1,39,Not Promoted,Yes,Intern,PWD,No,Medium
+EMP0155,Jennifer Jacobs,37,Male,Marketing,Marketing Analyst,Delhi,PhD,13,133840,3.9,5,8,31,Promoted,Yes,Full-Time,LGBTQ+,No,Low
+EMP0156,Amy Thompson,40,Male,Operations,Supply Chain Analyst,Hyderabad,Bachelor's,5,141707,4.5,6,5,71,Not Promoted,Yes,Intern,Women Workforce,No,Low
+EMP0157,Lindsay Johnson,37,Female,Operations,Operations Manager,Mumbai,MBA,7,147162,4.2,5,1,13,Promoted,No,Intern,General,No,Low
+EMP0158,Ashley Harris,43,Male,R&D,Research Associate,Delhi,Master's,15,55597,3.6,3,2,78,Promoted,Yes,Intern,General,Yes,High
+EMP0159,Scott Brown,43,Male,IT,System Administrator,Chennai,Bachelor's,3,41707,4.7,10,1,32,Promoted,No,Contract,Minority,No,Medium
+EMP0160,Jonathan Torres,49,Male,Finance,Financial Analyst,Bangalore,Master's,7,53571,4.8,1,7,22,Promoted,Yes,Contract,LGBTQ+,Yes,High
+EMP0161,Duane King,49,Female,Sales,Business Development Associate,Chennai,PhD,12,93913,3.8,9,7,26,Promoted,Yes,Intern,Minority,No,Low
+EMP0162,Holly Garza,25,Male,IT,System Administrator,Chennai,Master's,8,41856,3.1,9,6,53,Promoted,Yes,Contract,PWD,No,Medium
+EMP0163,Patricia Hatfield,32,Male,Sales,Business Development Associate,Hyderabad,Master's,5,62666,2.9,1,9,47,Not Promoted,Yes,Full-Time,Minority,Yes,High
+EMP0164,Terry Fletcher,54,Male,Marketing,SEO Specialist,Mumbai,Bachelor's,1,148616,3.4,3,7,52,Not Promoted,Yes,Contract,PWD,Yes,Medium
+EMP0165,Michelle Frank,28,Male,Operations,Supply Chain Analyst,Delhi,PhD,2,168479,4.6,1,3,28,Not Promoted,No,Intern,Women Workforce,No,Low
+EMP0166,Matthew Ramsey,51,Male,HR,HR Executive,Chennai,PhD,12,135648,3.5,8,10,7,Not Promoted,Yes,Contract,Women Workforce,No,Medium
+EMP0167,Mia Landry,25,Male,Operations,Operations Manager,Hyderabad,Bachelor's,7,113052,4.8,8,3,54,Promoted,No,Contract,Women Workforce,No,Low
+EMP0168,Timothy White,29,Male,Finance,Accountant,Chennai,MBA,9,48212,4.6,3,7,62,Not Promoted,No,Full-Time,Women Workforce,No,Medium
+EMP0169,Stacey Carroll DVM,46,Male,HR,Talent Acquisition Specialist,Hyderabad,Master's,0,88959,4.4,10,2,47,Promoted,Yes,Intern,General,No,Low
+EMP0170,Suzanne Rice,51,Female,Sales,Business Development Associate,Pune,PhD,4,156547,3.1,9,3,34,Not Promoted,No,Contract,LGBTQ+,No,Low
+EMP0171,Daniel Campbell,37,Female,Operations,Operations Manager,Bangalore,PhD,3,46592,4.3,8,6,21,Not Promoted,Yes,Full-Time,General,No,Medium
+EMP0172,Angela Taylor,36,Male,Sales,Sales Executive,Chennai,Bachelor's,13,76987,4.0,7,2,16,Promoted,Yes,Intern,PWD,No,Low
+EMP0173,Megan Mathews,30,Male,Sales,Business Development Associate,Delhi,PhD,4,145817,4.3,4,4,6,Promoted,Yes,Intern,General,Yes,Medium
+EMP0174,Nathaniel Sharp,44,Male,R&D,Product Development Engineer,Chennai,Master's,14,83723,4.1,10,10,22,Not Promoted,Yes,Full-Time,Women Workforce,No,Medium
+EMP0175,Robin Lopez,58,Male,Marketing,Marketing Analyst,Chennai,Bachelor's,10,147845,2.8,3,1,16,Promoted,Yes,Full-Time,PWD,Yes,High
+EMP0176,Darryl House,27,Female,R&D,Product Development Engineer,Pune,PhD,11,148461,4.6,6,1,24,Not Promoted,Yes,Intern,PWD,No,Low
+EMP0177,Kevin Cervantes,32,Male,Marketing,Marketing Analyst,Chennai,MBA,9,120663,4.1,8,10,41,Not Promoted,Yes,Contract,Women Workforce,No,Low
+EMP0178,Megan Perry,54,Male,Finance,Financial Analyst,Delhi,Bachelor's,2,31897,3.7,3,3,32,Not Promoted,Yes,Intern,Minority,Yes,High
+EMP0179,William Leach,35,Female,Operations,Supply Chain Analyst,Chennai,PhD,13,53766,4.4,8,3,67,Promoted,Yes,Full-Time,Women Workforce,No,Low
+EMP0180,Cheryl Kemp,28,Male,Sales,Business Development Associate,Mumbai,PhD,3,101668,4.2,6,3,74,Promoted,Yes,Full-Time,General,No,Medium
+EMP0181,Elijah Leonard,47,Female,Marketing,SEO Specialist,Hyderabad,Bachelor's,8,158104,3.1,4,9,39,Promoted,Yes,Intern,General,Yes,Medium
+EMP0182,Melissa Ryan,27,Female,Operations,Operations Manager,Pune,MBA,10,158631,3.0,9,9,32,Promoted,Yes,Intern,General,No,Low
+EMP0183,Laura Martinez,47,Male,Operations,Operations Manager,Mumbai,PhD,10,81706,4.3,10,8,66,Not Promoted,Yes,Full-Time,LGBTQ+,No,Low
+EMP0184,Brooke Sanchez,57,Female,Operations,Supply Chain Analyst,Delhi,MBA,9,88307,4.3,3,3,46,Not Promoted,No,Full-Time,PWD,No,Low
+EMP0185,Denise Miles,35,Male,HR,HR Executive,Pune,Master's,5,116017,4.4,8,9,41,Not Promoted,Yes,Full-Time,PWD,No,Medium
+EMP0186,Joshua Cooper,42,Female,Finance,Accountant,Hyderabad,Bachelor's,5,167292,3.7,3,6,49,Promoted,No,Full-Time,Minority,No,Low
+EMP0187,Tracey Wallace,39,Male,R&D,Product Development Engineer,Chennai,PhD,9,66269,4.9,2,5,75,Promoted,Yes,Intern,LGBTQ+,Yes,Medium
+EMP0188,Vincent Woods,37,Male,Operations,Operations Manager,Chennai,PhD,12,77855,3.4,10,6,44,Not Promoted,No,Contract,Minority,No,Medium
+EMP0189,Emily Duncan,38,Female,IT,System Administrator,Mumbai,MBA,7,168081,4.7,10,8,39,Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0190,Randy Howell,37,Female,Finance,Accountant,Mumbai,Master's,1,58410,3.1,8,5,50,Not Promoted,No,Full-Time,Minority,No,Medium
+EMP0191,Sarah Garcia,29,Male,HR,HR Executive,Mumbai,Master's,12,46462,4.5,9,10,40,Promoted,No,Full-Time,Women Workforce,No,Low
+EMP0192,David Banks,38,Female,HR,Talent Acquisition Specialist,Pune,MBA,14,64771,4.0,4,4,27,Not Promoted,Yes,Full-Time,General,Yes,High
+EMP0193,Andrea Jenkins,42,Female,Finance,Accountant,Delhi,Bachelor's,4,96502,3.1,2,9,56,Not Promoted,Yes,Intern,Minority,Yes,High
+EMP0194,Kelly Thomas,39,Male,Finance,Accountant,Pune,PhD,9,168154,2.8,2,6,11,Promoted,Yes,Contract,Minority,Yes,Medium
+EMP0195,Janet Nielsen,37,Male,Operations,Supply Chain Analyst,Pune,MBA,12,88499,2.6,7,10,64,Promoted,Yes,Intern,Women Workforce,No,Low
+EMP0196,Theresa Powell,57,Male,Sales,Sales Executive,Delhi,PhD,7,178587,2.6,6,3,62,Not Promoted,No,Full-Time,General,No,Medium
+EMP0197,David Martinez,43,Female,R&D,Research Associate,Pune,Master's,12,75583,4.9,2,3,38,Not Promoted,No,Intern,PWD,No,Low
+EMP0198,Madison Noble,26,Male,Marketing,SEO Specialist,Hyderabad,Master's,12,159847,4.5,5,4,13,Promoted,No,Full-Time,LGBTQ+,No,Low
+EMP0199,Sherry Weaver,55,Female,Operations,Operations Manager,Mumbai,PhD,9,174856,4.6,6,2,8,Promoted,Yes,Contract,PWD,No,Medium
+EMP0200,Sheryl Rodriguez,22,Male,IT,Software Engineer,Mumbai,Master's,5,134557,3.7,7,4,78,Not Promoted,No,Intern,Minority,No,Medium
+EMP0201,Olivia Williams,37,Female,Sales,Business Development Associate,Chennai,Bachelor's,0,76610,3.2,3,3,13,Promoted,Yes,Contract,General,Yes,Medium
+EMP0202,Aaron Smith,23,Female,R&D,Product Development Engineer,Bangalore,MBA,15,79847,2.5,4,3,42,Promoted,No,Contract,Minority,No,Medium
+EMP0203,Daniel Garcia,49,Male,Sales,Business Development Associate,Bangalore,PhD,13,127456,4.9,3,2,44,Not Promoted,Yes,Full-Time,Women Workforce,Yes,High
+EMP0204,Brian Clay,55,Female,Marketing,SEO Specialist,Bangalore,Bachelor's,2,93675,4.1,2,9,80,Promoted,No,Full-Time,General,No,Low
+EMP0205,Scott Wyatt,41,Female,Operations,Operations Manager,Mumbai,Bachelor's,10,146550,3.7,1,2,25,Not Promoted,Yes,Intern,Minority,Yes,Medium
+EMP0206,Debra Burgess,55,Male,R&D,Product Development Engineer,Mumbai,MBA,5,90395,3.2,9,4,33,Not Promoted,No,Full-Time,PWD,No,Medium
+EMP0207,Lisa Eaton,27,Male,HR,Talent Acquisition Specialist,Chennai,MBA,4,107213,2.9,8,1,16,Not Promoted,No,Contract,PWD,No,Low
+EMP0208,Marc Huff,51,Male,Sales,Business Development Associate,Bangalore,PhD,2,134415,4.5,5,9,46,Promoted,Yes,Full-Time,General,No,Low
+EMP0209,Gina Taylor,30,Female,Sales,Business Development Associate,Mumbai,Bachelor's,2,137739,4.7,6,4,78,Promoted,Yes,Full-Time,Minority,No,Low
+EMP0210,Jeremy Brooks,29,Female,Marketing,Marketing Analyst,Delhi,Bachelor's,0,83357,3.4,6,4,70,Not Promoted,Yes,Full-Time,PWD,No,Low
+EMP0211,Angela Underwood,50,Male,R&D,Research Associate,Bangalore,Bachelor's,15,144661,3.1,5,4,52,Not Promoted,Yes,Full-Time,PWD,No,Low
+EMP0212,Nicole Russell,53,Female,Marketing,SEO Specialist,Bangalore,Master's,3,42131,3.5,5,2,46,Not Promoted,No,Contract,Women Workforce,No,Medium
+EMP0213,Dana Snyder,28,Male,HR,HR Executive,Chennai,Bachelor's,12,109542,3.6,7,10,54,Promoted,No,Contract,Minority,No,Low
+EMP0214,Veronica Hodges,48,Female,IT,System Administrator,Bangalore,MBA,14,128060,3.4,10,8,34,Promoted,Yes,Intern,Minority,No,Low
+EMP0215,Juan Nixon,42,Female,R&D,Research Associate,Chennai,MBA,0,79368,4.4,7,9,21,Not Promoted,No,Full-Time,Women Workforce,No,Medium
+EMP0216,Diane Contreras,38,Female,Marketing,SEO Specialist,Pune,PhD,12,43286,3.4,10,8,42,Not Promoted,Yes,Intern,LGBTQ+,No,Medium
+EMP0217,Steven Payne,46,Female,R&D,Research Associate,Pune,MBA,11,163599,3.4,7,8,11,Promoted,Yes,Full-Time,General,No,Medium
+EMP0218,Ryan Hamilton,32,Female,Operations,Operations Manager,Delhi,Bachelor's,14,82543,3.7,10,2,80,Not Promoted,Yes,Contract,General,No,Low
+EMP0219,Gregory Moore,56,Male,Finance,Accountant,Chennai,Bachelor's,2,167887,4.6,1,10,46,Not Promoted,No,Full-Time,PWD,No,Low
+EMP0220,Mark Duke,52,Female,Marketing,Marketing Analyst,Delhi,Master's,1,125190,3.6,4,4,5,Not Promoted,No,Full-Time,Minority,No,Medium
+EMP0221,Bobby Peters,34,Female,Operations,Supply Chain Analyst,Bangalore,PhD,8,56714,4.6,8,2,37,Not Promoted,Yes,Full-Time,PWD,No,Low
+EMP0222,Michael Taylor,28,Female,IT,Software Engineer,Chennai,MBA,3,116124,4.1,10,1,5,Not Promoted,No,Contract,Minority,No,Low
+EMP0223,Jeffrey Carlson,36,Male,Operations,Operations Manager,Hyderabad,MBA,13,82079,3.2,9,8,41,Not Promoted,Yes,Intern,Women Workforce,No,Low
+EMP0224,Caleb Taylor,32,Female,Sales,Sales Executive,Hyderabad,Master's,8,172510,2.8,1,3,53,Promoted,No,Contract,General,No,Medium
+EMP0225,Katherine Smith,29,Female,HR,HR Executive,Mumbai,Master's,3,97813,3.5,9,8,59,Promoted,Yes,Full-Time,PWD,No,Low
+EMP0226,Shannon Frost,25,Male,Marketing,SEO Specialist,Pune,Master's,12,73988,2.7,7,1,8,Promoted,No,Full-Time,General,No,Medium
+EMP0227,Richard Fitzgerald,58,Female,Marketing,Marketing Analyst,Hyderabad,PhD,8,102390,3.0,3,4,24,Promoted,Yes,Contract,Minority,Yes,Medium
+EMP0228,Tina Parker,54,Male,Finance,Financial Analyst,Hyderabad,MBA,6,178084,5.0,1,8,75,Promoted,Yes,Intern,PWD,Yes,Medium
+EMP0229,Richard Noble,43,Male,R&D,Research Associate,Chennai,PhD,8,158444,4.8,10,1,18,Not Promoted,Yes,Contract,Women Workforce,No,Low
+EMP0230,Andrew Lopez,34,Male,Sales,Sales Executive,Hyderabad,PhD,0,95059,3.2,6,8,71,Promoted,No,Contract,PWD,Yes,High
+EMP0231,Jerry Holloway,24,Female,R&D,Product Development Engineer,Chennai,PhD,11,63351,3.5,2,10,9,Not Promoted,No,Intern,Minority,No,Low
+EMP0232,Dave Davis,25,Male,Sales,Sales Executive,Pune,Master's,7,47717,4.9,1,9,64,Not Promoted,No,Contract,LGBTQ+,No,Low
+EMP0233,Jordan Stewart,54,Female,HR,HR Executive,Hyderabad,Bachelor's,5,44879,4.1,6,6,62,Not Promoted,No,Contract,Minority,No,Medium
+EMP0234,Tammy Moss,33,Female,Finance,Financial Analyst,Delhi,Master's,2,135787,4.9,4,4,74,Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0235,Laura Salinas,41,Male,Finance,Financial Analyst,Delhi,MBA,5,167846,5.0,1,7,20,Promoted,No,Contract,Women Workforce,No,Low
+EMP0236,Tara Jackson,50,Male,Marketing,SEO Specialist,Hyderabad,PhD,3,121004,4.3,9,9,56,Not Promoted,Yes,Contract,Women Workforce,No,Medium
+EMP0237,Anne Floyd,47,Male,HR,HR Executive,Chennai,Bachelor's,7,62936,4.6,10,1,26,Promoted,No,Full-Time,PWD,No,Medium
+EMP0238,Becky Pace,54,Male,IT,Software Engineer,Chennai,Bachelor's,1,60773,4.5,9,10,80,Not Promoted,Yes,Full-Time,Minority,No,Medium
+EMP0239,Nicholas Ramirez,57,Male,HR,HR Executive,Pune,MBA,2,128432,3.1,3,6,34,Not Promoted,Yes,Contract,LGBTQ+,Yes,High
+EMP0240,Heidi Gomez,57,Female,Marketing,Marketing Analyst,Hyderabad,PhD,15,132646,3.0,8,2,57,Promoted,Yes,Intern,LGBTQ+,No,Medium
+EMP0241,Laurie Cook,24,Male,Operations,Supply Chain Analyst,Chennai,Master's,9,171984,3.1,10,4,7,Promoted,No,Contract,General,No,Low
+EMP0242,Shannon Turner,51,Female,Operations,Operations Manager,Pune,PhD,7,128061,3.2,6,7,67,Not Promoted,Yes,Contract,General,No,Medium
+EMP0243,Shelby Perez,47,Male,HR,HR Executive,Bangalore,PhD,15,88660,3.9,10,9,36,Promoted,Yes,Contract,Women Workforce,No,Medium
+EMP0244,Susan Myers,29,Female,Operations,Operations Manager,Bangalore,Master's,2,139429,3.4,7,7,29,Promoted,No,Intern,PWD,No,Low
+EMP0245,Wesley Lee,37,Male,R&D,Product Development Engineer,Chennai,MBA,3,156370,3.9,3,7,68,Promoted,No,Intern,PWD,No,Medium
+EMP0246,David Wilson,40,Male,Marketing,SEO Specialist,Delhi,Bachelor's,12,169858,4.6,9,6,42,Not Promoted,Yes,Full-Time,PWD,No,Low
+EMP0247,Michael Odom,30,Female,R&D,Product Development Engineer,Chennai,MBA,6,116736,4.5,2,2,61,Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0248,Ryan Orozco,34,Male,HR,HR Executive,Chennai,MBA,1,140722,4.4,8,4,36,Promoted,Yes,Full-Time,LGBTQ+,Yes,Medium
+EMP0249,Cynthia Mclean,24,Female,Operations,Supply Chain Analyst,Bangalore,Master's,6,78957,2.7,9,3,50,Not Promoted,Yes,Contract,Women Workforce,No,Medium
+EMP0250,Nathan Becker,26,Male,R&D,Product Development Engineer,Chennai,MBA,13,154724,2.7,3,4,42,Not Promoted,No,Full-Time,PWD,No,Low
+EMP0251,Nicole Huber,53,Male,IT,Software Engineer,Bangalore,Master's,5,156902,2.9,4,2,42,Promoted,Yes,Intern,PWD,Yes,High
+EMP0252,Michelle Raymond,27,Female,Finance,Financial Analyst,Pune,Master's,5,114925,2.9,2,5,56,Promoted,No,Intern,Minority,No,Low
+EMP0253,Carly Wilson,23,Male,IT,System Administrator,Mumbai,PhD,12,141452,3.9,6,6,58,Not Promoted,Yes,Full-Time,LGBTQ+,No,Low
+EMP0254,Melissa Hughes,31,Female,Finance,Accountant,Chennai,Bachelor's,11,63463,2.6,4,8,13,Promoted,No,Full-Time,LGBTQ+,No,Low
+EMP0255,Kyle Nelson,28,Male,Finance,Accountant,Pune,Master's,8,62560,4.6,7,2,62,Promoted,No,Contract,General,No,Medium
+EMP0256,Dana Perez,33,Male,Marketing,Marketing Analyst,Hyderabad,Master's,7,86438,3.9,6,1,47,Promoted,Yes,Intern,General,No,Medium
+EMP0257,Maria Williams,32,Female,HR,HR Executive,Delhi,Master's,6,56680,3.1,9,9,26,Not Promoted,Yes,Contract,General,No,Low
+EMP0258,Kimberly Davies,30,Female,Finance,Financial Analyst,Mumbai,Bachelor's,7,143072,4.2,2,3,53,Promoted,Yes,Contract,PWD,Yes,High
+EMP0259,Molly Kirby,56,Male,Sales,Business Development Associate,Pune,PhD,3,116502,3.7,1,9,40,Not Promoted,Yes,Intern,LGBTQ+,Yes,Medium
+EMP0260,Brittany Webb,40,Female,Sales,Business Development Associate,Mumbai,MBA,6,175798,3.5,3,4,50,Not Promoted,No,Contract,Minority,No,Low
+EMP0261,Nicholas Hardy,43,Female,Operations,Supply Chain Analyst,Chennai,Master's,12,108572,4.5,10,4,20,Promoted,Yes,Contract,PWD,No,Medium
+EMP0262,Yvonne Russell,31,Male,Marketing,Marketing Analyst,Mumbai,PhD,4,68779,3.2,10,6,48,Promoted,Yes,Contract,LGBTQ+,No,Low
+EMP0263,Amber Moore,54,Female,R&D,Product Development Engineer,Pune,Master's,11,117900,5.0,4,5,9,Promoted,No,Full-Time,LGBTQ+,No,Low
+EMP0264,Cody Johnson,39,Male,Operations,Operations Manager,Delhi,MBA,5,145182,2.8,6,5,39,Promoted,No,Full-Time,Women Workforce,No,Medium
+EMP0265,Michael Lopez,55,Male,R&D,Product Development Engineer,Hyderabad,Master's,12,88679,4.0,4,10,52,Promoted,No,Intern,Women Workforce,No,Low
+EMP0266,Jennifer Spencer,58,Female,HR,Talent Acquisition Specialist,Delhi,MBA,7,83960,4.3,7,9,55,Promoted,Yes,Intern,General,No,Low
+EMP0267,Michelle Knox,48,Male,IT,Data Analyst,Delhi,MBA,9,128456,4.0,8,10,41,Not Promoted,No,Contract,PWD,No,Low
+EMP0268,Marc Brown,47,Female,HR,HR Executive,Delhi,PhD,11,176429,4.5,3,9,22,Not Promoted,No,Intern,PWD,No,Medium
+EMP0269,Joseph Mcdonald,25,Female,IT,Software Engineer,Chennai,Master's,14,159672,4.4,9,3,11,Promoted,Yes,Intern,General,No,Medium
+EMP0270,Anne Spence,36,Male,Finance,Financial Analyst,Bangalore,PhD,4,106151,2.7,1,5,34,Not Promoted,No,Full-Time,PWD,No,Low
+EMP0271,Justin Craig,38,Male,R&D,Research Associate,Hyderabad,PhD,7,80115,4.7,5,2,42,Promoted,No,Contract,Women Workforce,No,Low
+EMP0272,Angela Marshall,27,Female,Finance,Financial Analyst,Bangalore,Master's,15,113794,2.7,8,4,22,Not Promoted,No,Contract,PWD,No,Low
+EMP0273,Teresa Roberts,41,Male,Finance,Accountant,Pune,MBA,2,132990,3.1,8,10,54,Not Promoted,No,Full-Time,Women Workforce,No,Medium
+EMP0274,Sherri Nicholson,42,Female,Finance,Financial Analyst,Pune,Bachelor's,4,157326,4.0,9,8,24,Not Promoted,No,Intern,PWD,No,Medium
+EMP0275,Jean Long,26,Female,HR,Talent Acquisition Specialist,Delhi,Bachelor's,2,141687,2.8,3,5,12,Promoted,No,Full-Time,Women Workforce,No,Low
+EMP0276,Patrick Cain,40,Male,IT,Software Engineer,Delhi,Bachelor's,6,85625,4.4,2,7,65,Not Promoted,Yes,Contract,Minority,Yes,Medium
+EMP0277,Sandra Thompson,24,Female,IT,Data Analyst,Chennai,PhD,0,127642,4.8,9,3,49,Not Promoted,Yes,Contract,General,No,Medium
+EMP0278,Nathan Newton,49,Male,HR,Talent Acquisition Specialist,Bangalore,MBA,4,145690,4.2,2,9,57,Not Promoted,No,Intern,Minority,No,Low
+EMP0279,Steven George,44,Male,R&D,Research Associate,Chennai,Bachelor's,6,49782,3.1,1,10,32,Not Promoted,No,Contract,Minority,No,Medium
+EMP0280,Karen Vargas,44,Male,Finance,Accountant,Delhi,Bachelor's,1,76001,2.7,1,2,29,Not Promoted,No,Contract,Women Workforce,No,Medium
+EMP0281,Jose Brown,25,Female,Operations,Operations Manager,Delhi,Bachelor's,8,177662,3.0,7,9,16,Promoted,No,Intern,LGBTQ+,No,Low
+EMP0282,David Jackson,23,Female,R&D,Product Development Engineer,Pune,Master's,15,65807,4.0,8,6,69,Not Promoted,No,Full-Time,PWD,No,Medium
+EMP0283,Troy Allen,28,Male,HR,HR Executive,Delhi,MBA,10,65479,4.6,5,1,17,Promoted,No,Intern,Women Workforce,No,Medium
+EMP0284,April Lee,54,Male,R&D,Research Associate,Delhi,MBA,1,54972,3.9,10,6,35,Promoted,No,Intern,Minority,No,Low
+EMP0285,William Sanders,42,Male,IT,Software Engineer,Pune,Bachelor's,3,118137,3.9,5,8,43,Not Promoted,Yes,Contract,PWD,No,Medium
+EMP0286,Jason Castillo,57,Male,IT,System Administrator,Bangalore,Master's,11,172651,3.4,7,7,21,Not Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0287,Kerry Mccall,56,Female,IT,Data Analyst,Hyderabad,PhD,1,155569,4.1,3,7,72,Not Promoted,No,Full-Time,Minority,No,Medium
+EMP0288,Damon Harrison,44,Female,Marketing,SEO Specialist,Chennai,Bachelor's,6,112187,3.2,5,7,80,Not Promoted,No,Contract,LGBTQ+,No,Low
+EMP0289,Craig Shaw,31,Female,IT,Software Engineer,Chennai,PhD,2,94557,4.9,7,9,29,Not Promoted,Yes,Contract,LGBTQ+,No,Medium
+EMP0290,Sarah Diaz,37,Female,HR,HR Executive,Delhi,MBA,12,125313,2.7,7,4,80,Not Promoted,No,Contract,LGBTQ+,No,Medium
+EMP0291,Alex Moore,47,Male,Operations,Operations Manager,Mumbai,MBA,0,46036,2.7,10,10,28,Promoted,No,Full-Time,Women Workforce,Yes,Medium
+EMP0292,Ana Jones,26,Female,R&D,Product Development Engineer,Mumbai,Master's,13,167167,3.4,8,7,29,Not Promoted,Yes,Intern,Women Workforce,No,Medium
+EMP0293,Mrs. Carrie Conley DDS,29,Female,IT,System Administrator,Bangalore,Master's,8,51690,4.1,7,2,24,Not Promoted,Yes,Full-Time,Minority,No,Low
+EMP0294,Heather Ortiz,23,Female,Operations,Operations Manager,Bangalore,Bachelor's,15,89445,4.1,8,7,29,Promoted,No,Intern,PWD,No,Medium
+EMP0295,Cory Gray,38,Female,R&D,Product Development Engineer,Pune,Master's,11,146259,3.4,5,5,58,Not Promoted,No,Contract,PWD,No,Low
+EMP0296,Kristie Lane,43,Female,Operations,Operations Manager,Bangalore,PhD,1,88537,2.5,10,6,18,Not Promoted,Yes,Contract,Minority,Yes,High
+EMP0297,Philip Long,28,Male,R&D,Research Associate,Delhi,MBA,10,177546,4.1,7,9,14,Not Promoted,No,Contract,Women Workforce,No,Low
+EMP0298,Samuel Woods,52,Male,R&D,Research Associate,Pune,Master's,9,136550,3.9,9,5,67,Not Promoted,No,Contract,Minority,No,Medium
+EMP0299,Carl Sims,52,Female,IT,Software Engineer,Delhi,Master's,14,117810,5.0,5,1,79,Not Promoted,Yes,Full-Time,General,No,Low
+EMP0300,Jennifer Kemp,35,Male,Marketing,Marketing Analyst,Bangalore,Bachelor's,15,114721,4.5,5,6,38,Not Promoted,No,Intern,General,No,Low
